@@ -4,15 +4,46 @@
 </h1>
 
 <!-- Subheader -->
-<h4 align="center">Electrical Engineering I Universitas Lampung </h4>
+<h4 align="center">Electrical Engineering | Universitas Lampung</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cindakamilah-op&style=for-the-badge&color=6C63FF" alt="Profile views"/>
+</p>
 
 ---
-
 
 - 🎓 **Electrical Engineering** passionate about technology and innovation.  
 - 💻 Skilled in **Frontend & Backend Development**.  
 - 💡 Interested in **IoT, AI, and Automation Systems**.  
 - 🌱 Currently learning **Python**, **C++**, and **Web Development**.  
+
+---
+
+## Framework & Library Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+##  Tech Stack
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -34,6 +65,7 @@
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
+
 
 ---
 
