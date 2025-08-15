@@ -74,6 +74,3 @@
 <p align="center">
   <i>✨ "Keep learning, keep creating, and keep inspiring." ✨</i>
 </p>
-
-  <i>✨ "Keep learning, keep creating, and keep inspiring." ✨</i>
-</p>
